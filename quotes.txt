@@ -1,14 +1,14 @@
-Responsive is better than fast
-It’s not fully shipped until it’s fast
-Anything added dilutes everything else
-Practicality beats purity
-Approachable is better than simple
-Mind your words, they are important
-Speak like a human
-Half measures are as bad as nothing at all
-Encourage flow
-Non-blocking is better than blocking
-Favor focus over features
-Avoid administrative distraction
-Design for failure
-Keep it logically awesome
+1.Responsive is better than fast
+2.It’s not fully shipped until it’s fast
+3.Anything added dilutes everything else
+4.Practicality beats purity
+5.Approachable is better than simple
+6.Mind your words, they are important
+7.Speak like a human
+8.Half measures are as bad as nothing at all
+9.Encourage flow
+10.Non-blocking is better than blocking
+11.Favor focus over features
+12.Avoid administrative distraction
+13.Design for failure
+14.Keep it logically awesome
